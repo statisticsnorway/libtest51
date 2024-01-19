@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "libtest51"
-version = "0.0.0"
+version = "0.0.1"
 description = "Libtest51"
 authors = ["Magnus Kvåle Helliesen <magnus.helliesen@gmail.com>"]
 license = "MIT"
